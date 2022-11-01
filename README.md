@@ -1,6 +1,7 @@
 # Net Monitor 2.0
 
 cd
+
 opkg update
 
 wget --no-check-certificate -O /tmp/luci-app-netmonitor_2.0_all.ipk https://github.com/planetmina/Net-Monitor/blob/main/luci-app-netmonitor_2.0_all.ipk
